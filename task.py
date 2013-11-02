@@ -1,3 +1,4 @@
+#coding:utf-8
 import writetotxt
 import download
 import time
